@@ -8,6 +8,6 @@ Following business related questions have been looked upon by Data Cleaning and 
 4) What products are most often sold together?  
 5) What product sold the most? Why do you think it sold the most?
 
-All month wise separate data is stored in the folder 'Data'. 'annual.csv' is the concatanation of all months data into one file, done using pandas.
+All monthly data is stored in the 'Data' folder. The 'annual.csv' file represents the consolidation of data from all months into a single file, achieved through the use of Pandas.
 
 
